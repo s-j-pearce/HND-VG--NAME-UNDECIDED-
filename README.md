@@ -85,10 +85,19 @@
 ### 1.1 Project Aims
 For this project I am aiming to create a first person perspective version of Pacman with a horry spin to it. I will adapt the original version of pacman by adding some features to reboot the game by giving it a more current feel to it, this will include the addition of a multiplayer ability, a first person perspective, option for VR and a horror style to it to make it feel unique.
 ### 1.2 System Requirements
+In order for me to complete my project i will need to make sure that certain system requirements are met. 
 
+The first requirement is that i am going to need access to the software Unity in order to develop my game, unity is a advanced development software which is used by many different video game companies. 
+
+The second requirement is system specifications, in order to smoothly develop the game and make sure that i dont have anything throttlenecking my development of the game. 
+
+The third requirement is the internet.
+
+The fourth requirement is a VR headset is players want to play in that mode.
 ### 1.3 Software Investigation
-
+In order to develop my game successfully i will need to learn how to use some features and techniques to best develope the game. as i have only used unity for a few hours i am not skilled enough to fully create a game without first taking time to develop my own understanding and abilities.
 ### 1.4 Cost
+For this project there are a few cost which are used in order for me to develop my project. The first and main cost is **Unity Pro licence**, Unity pro licence will allow me to use specific tools and abilities that the free version would not. By purchasing this license it will allow me to not be stopped by the software, meaning the only thing theoretically that could hold me back would be my own creativeness.
 
 ### 1.5 Scope 
 
