@@ -82,9 +82,8 @@
  [4.7 Did I Meet The Clients Requirements?](https://github.com/s-j-pearce/HND-VG-SNAKE-2018#47-did-i-meet-the-clients-requirements)
 
 ## 1.0 Project Management Documentation
-
 ### 1.1 Project Aims
-
+For this project I am aiming to create a first person perspective version of Pacman with a horry spin to it. I will adapt the original version of pacman by adding some features to reboot the game by giving it a more current feel to it, this will include the addition of a multiplayer ability, a first person perspective, option for VR and a horror style to it to make it feel unique.
 ### 1.2 System Requirements
 
 ### 1.3 Software Investigation
