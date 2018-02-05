@@ -84,6 +84,11 @@
 ## 1.0 Project Management Documentation
 ### 1.1 Project Aims
 For this project I am aiming to create a first person perspective version of Pacman with a horry spin to it. I will adapt the original version of pacman by adding some features to reboot the game by giving it a more current feel to it, this will include the addition of a multiplayer ability, a first person perspective, option for VR and a horror style to it to make it feel unique.
+#### Aims:
+1. Create a FPS Pacman
+2. Create a Horror styled pacman experience
+3. Make the game mulitplayer compatible
+4. Develop the ability to allow players to play with a VR headset.
 ### 1.2 System Requirements
 In order for me to complete my project i will need to make sure that certain system requirements are met. 
 
