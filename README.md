@@ -97,8 +97,13 @@ The fourth requirement is a VR headset is players want to play in that mode.
 ### 1.3 Software Investigation
 In order to develop my game successfully i will need to learn how to use some features and techniques to best develope the game. as i have only used unity for a few hours i am not skilled enough to fully create a game without first taking time to develop my own understanding and abilities.
 ### 1.4 Cost
-For this project there are a few cost which are used in order for me to develop my project. The first and main cost is **Unity Pro licence**, Unity pro licence will allow me to use specific tools and abilities that the free version would not. By purchasing this license it will allow me to not be stopped by the software, meaning the only thing theoretically that could hold me back would be my own creativeness.
+For this project there are a few cost which are used in order for me to develop my project. The first and main cost is **Unity Pro licence**(£125 per month), Unity pro licence will allow me to use specific tools and abilities that the free version would not. By purchasing this license it will allow me to not be stopped by the software, meaning the only thing theoretically that could hold me back would be my own creativeness.
 
+Another form of cost could be my system that i use at home for work and pleasure. the system itself costs around £1600 and thats including the monitors and peripherals. The system I have is a bit overkill for developing games and applications however it will be able to handle anything that is thrown at it during the development of the game.
+
+The Internet used at my home costs around £50 per month is is a mandatory cost that is needed to upload work to the cloud so that i can access it anytime, also any research also requires the internet, this could be video tutorials or even just online documentation to help understand the software or a process.
+
+Overall the total cost comes to just over **£2000**, This is because it will take around 3 months in order to complete the project, this menas i need to pay for internet and unity pro licence for that time on top of the cost of my system.
 ### 1.5 Scope 
 
 ### 1.6 Time Mangement/Schedule 
