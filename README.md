@@ -1,7 +1,7 @@
 # HND-VG-SNAKE-2018
 
 ## Table of contents:
- 1.0 Project Management Documentation
+ [1.0 Project Management Documentation](https://github.com/s-j-pearce/HND-VG-SNAKE-2018#10-project-management-documentation)
 
  1.1 Project Aims
 
