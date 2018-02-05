@@ -89,6 +89,11 @@ For this project I am aiming to create a first person perspective version of Pac
 2. Create a Horror styled pacman experience
 3. Make the game mulitplayer compatible
 4. Develop the ability to allow players to play with a VR headset.
+#### Detailed Aims:
+1.
+2.
+3.
+4.
 ### 1.2 System Requirements
 In order for me to complete my project i will need to make sure that certain system requirements are met. 
 
@@ -112,7 +117,7 @@ Overall the total cost comes to just over **£2000**, This is because it will ta
 ### 1.5 Scope 
 
 ### 1.6 Time Mangement/Schedule 
-
+![pacman_gantt_chart](https://user-images.githubusercontent.com/31927590/35818711-a8625f68-0a98-11e8-8b20-c4bcbf1720fc.PNG)
 ### 1.7 Risks
 
 ### 1.8 Resources
