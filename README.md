@@ -2,7 +2,6 @@
 
 ## Table of contents:
  [1.0 Project Management Documentation](https://github.com/s-j-pearce/HND-VG-SNAKE-2018#10-project-management-documentation)
-
  [1.1 Project Aims](https://github.com/s-j-pearce/HND-VG-SNAKE-2018#11-project-aims)
 
  [1.2 System Requirements](https://github.com/s-j-pearce/HND-VG-SNAKE-2018#12-system-requirements)
