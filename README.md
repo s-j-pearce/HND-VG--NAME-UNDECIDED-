@@ -1,4 +1,4 @@
-# HND-VG-SNAKE-2018
+# HND-VG-FP-PACMAN
 
 ## Table of contents:
  [1.0 Project Management Documentation](https://github.com/s-j-pearce/HND-VG-SNAKE-2018#10-project-management-documentation)
