@@ -33,7 +33,7 @@ The third requirement is the internet.
 
 The fourth requirement is a VR headset as players want to play in that mode.
 ### 1.3 Software Investigation
-In order to develop my game successfully I will need to learn how to use some features and techniques to best develop the game. as I have only used unity for a few hours i am not skilled enough to fully create a game without first taking time to develop my own understanding and abilities.
+In order to develop my game successfully I will need to learn how to use some features and techniques to best develop the game. as I have only used unity for a few hours I am not skilled enough to fully create a game without first taking time to develop my own understanding and abilities.
 ### 1.4 Cost
 For this project there are a few costs which are used in order for me to develop my project. The first and main cost is **Unity Pro licence**(£125 per month), Unity pro licence will allow me to use specific tools and abilities that the free version would not. By purchasing this license, it will allow me to not be stopped by the software, meaning the only thing theoretically that could hold me back would be my own creativeness.
 
@@ -93,6 +93,8 @@ Overall the total cost comes to just over **£2000**, This is because it will ta
 #### 3.8.4 Debugging 
 
 ### 3.9 Concept Art
+
+![img_2350](https://user-images.githubusercontent.com/31927590/44064421-c5fabbf2-9f5c-11e8-9f96-046dd801743c.jpg)
 
 ### 3.10 Flowcharts
 
